@@ -1,12 +1,12 @@
-# ydapi
+# YD-CLI
 
-Youdao Fanyi Command-Line Interface Using Youdao Api.
+Youdao Translation Command-Line Interface Using Youdao Api.
 
 # Usage
 
 1. `git clone https://github.com/O1sInfo/ydapi.git` or Download as zip.
 2. (Optional) Put **yd.bat** in your envoiroment path.
-3. Set some private value in **yd.py** such as `appKey`, `secretKey`. May you need a account. -> [有道API](http://ai.youdao.com/)
+3. Set some private value in **yd.py** such as `appKey`, `secretKey`. May be you need a account. -> [有道API](http://ai.youdao.com/)
 3. `yd -h` for HELP. 
 
 # Example
@@ -15,7 +15,7 @@ Youdao Fanyi Command-Line Interface Using Youdao Api.
 ```
 usage: yd.py [-h] [-w WORD | -t TEXT | -f FILE] [-o OUTPUT]
 
-Youdao Translation CLI. Author: claylau
+Youdao Translation CLI.
 
 optional arguments:
   -h, --help  show this help message and exit

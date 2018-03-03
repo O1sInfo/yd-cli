@@ -2,6 +2,8 @@
 
 Youdao Translation Command-Line Interface Using Youdao Api.
 
+:D The code is ugly, and there are Suggestions for improvement.
+
 # Usage
 
 1. `git clone https://github.com/O1sInfo/ydapi.git` or Download as zip.

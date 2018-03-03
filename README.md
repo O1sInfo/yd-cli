@@ -11,6 +11,19 @@ Youdao Fanyi Command-Line Interface Using Youdao Api.
 
 # Example
 
+* `yd -h`
+```
+usage: yd.py [-h] [-w WORD | -t TEXT | -f FILE] [-o OUTPUT]
+
+Youdao Translation CLI. Author: claylau
+
+optional arguments:
+  -h, --help  show this help message and exit
+  -w WORD     the word to translate using yd-dict web interface.
+  -t TEXT     the text to translate using yd-fanyi api.
+  -f FILE     the file path of text to translate using yd-fanyi api.
+  -o OUTPUT   to save the translatin file when -f effects.
+```
 * `yd -w word`
 ```
 n        [语] 单词；话语；消息；诺言；命令,  (Word)人名；(英)沃德
